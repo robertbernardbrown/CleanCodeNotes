@@ -38,3 +38,4 @@
   * Try reading the code a few times with different names in place
 * Be consistent in your names
   * I.E. you name s function `includeTeardownPages`, then name others: `includeSuiteTeardownPages`, `includeSetupPage`, etc
+  * 
